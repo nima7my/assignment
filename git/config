@@ -1,11 +1,11 @@
 [core]
 	repositoryformatversion = 0
-	filemode = true
+	filemode = false
 	bare = false
 	logallrefupdates = true
 [remote "origin"]
 	url = https://github.com/yashjhaveri05/E-Food.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
-[branch "master"]
+[branch "main"]
 	remote = origin
 	merge = refs/heads/master
